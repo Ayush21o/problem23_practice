@@ -1,18 +1,6 @@
 # problem23_practice
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-  <a href="https://david-dm.org/bdcorps/serve-static-website-nodejs.svg">
-    <img src="https://david-dm.org/bdcorps/serve-static-website-nodejs.svg" alt="Dependency Status" />
-  </a>
-[![LinkedIn][linkedin-shield]][linkedin-url]
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/bdcorps/serve-static-website-nodejs">
-    <img src="https://dummyimage.com/150x150/000000/ffffff.png&text=Nodejs+x+Static" alt="Logo" width="150" height="150">
-  </a>
-
   <h3 align="center">Serve Static Website Node.js</h3>
 
   <p align="center">   
@@ -55,12 +43,6 @@ http://localhost:3000
 ```
 The app should be at http://localhost:3000.
 
-<!-- LICENSE -->
-## License
 
-Distributed under the MIT License
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/sukhpal-saini/
 
 
