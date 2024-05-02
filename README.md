@@ -19,7 +19,7 @@ A simple Node.js web app that serves static HTML file content.
 - 1 - Clone this repo:
 
 ```
-git clone
+git clone https://github.com/Ayush21o/problem23_practice.git
 ```
 
 - 2 - Copy/paste static website in /public
